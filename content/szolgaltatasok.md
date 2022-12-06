@@ -6,6 +6,10 @@ draft: false
 
 ## Szolgáltatások
 
+##Dolgozat készítés
+
+kakadu
+
 ### Dolgozat írás
 
 Megírjuk helyetted a dolgozatot, biztos ötös, kockázat nélkül.
